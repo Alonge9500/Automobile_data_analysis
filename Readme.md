@@ -1,5 +1,12 @@
 # Automibile Data Analysis
 ## (By Alonge Daniel)
+A Data Scientist passionate about data and technology.
+
+- GitHub: [Alonge 9500](https://github.com/Alonge9500)
+- LinkedIn: [Alonge Daniel](https://www.linkedin.com/in/alonge-daniel-27b4b4139/)
+- Email: [Alonge Daniel](mailto:alongedaniel19@gmail.com)
+
+I' will appreciate any comment and correction on this work 
 
 ![alt text](https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhcnN8ZW58MHx8MHx8&w=1000&q=80)
 [Image Source:unsplach.com](https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhcnN8ZW58MHx8MHx8&w=1000&q=80)
