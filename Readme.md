@@ -1,6 +1,6 @@
 # Automibile Data Analysis
 ## (By Alonge Daniel)
-A Data Scientist passionate about data and technology.
+
 
 - GitHub: [Alonge 9500](https://github.com/Alonge9500)
 - LinkedIn: [Alonge Daniel](https://www.linkedin.com/in/alonge-daniel-27b4b4139/)
